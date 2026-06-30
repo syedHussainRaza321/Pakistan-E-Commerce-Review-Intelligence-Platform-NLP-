@@ -1,2 +1,3 @@
 # Pakistan-E-Commerce-Review-Intelligence-Platform-NLP-
 The Pakistan E-Commerce Review Intelligence Platform is a B2B SaaS (Software-as-a-Service) web application that empowers sellers, brands, and marketplace analysts to automatically collect, process, and understand customer reviews at scale. The platform combines three core NLP capabilities into a unified, actionable dashboard.
+https://www.linkedin.com/posts/hussain-raza-sayyed-11a65a2a3_nlp-artificialintelligence-machinelearning-ugcPost-7472197163263971328-TZKa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk-0SYBcem36GjYiV-HCvA83F_HwtqOQE0
